@@ -10,3 +10,6 @@ For each element in list Product all elements of list except itself
 
 Day3:
 Binary Tree Serialization and Deserialization 
+
+Day4:
+Find missing lowest positive integer from array
