@@ -13,3 +13,6 @@ Binary Tree Serialization and Deserialization
 
 Day4:
 Find missing lowest positive integer from array
+
+Day5:
+Car and Cudder Problem using closure
